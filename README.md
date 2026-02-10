@@ -43,8 +43,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexJzG&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJzG&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/AlexJzG?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8&languages.indepth=1&config.timezone=America/Mexico_City" alt="GitHub Metrics" />
 </p>
 
 ###
