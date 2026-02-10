@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Alejandro and I'm from Mexico!<br><br>- 🏫 I’m currently a math student at UNAM's Faculty of Science.<br>- 🤖 My main interest are Software Engineering and Artificial Intelligence.<br>- 🧮 I love solving math and algorithmic problems.<br>- 💻 I'm also a Competitive Porgramming Mentor at my Faculty's Competitive Porgramming Club (Pu++).<br>- ⚡ In my free time I play piano and listen to my favorite music.</p>
+<p align="left">I'm Alejandro and I'm from Mexico!<br><br>- 🏫 I’m currently a math student at UNAM's Faculty of Science.<br>- 🤖 My main interest are Software Engineering and Artificial Intelligence.<br>- 🧮 I love solving math and algorithmic problems.<br>- 💻 I'm also a Competitive Programming Mentor at my Faculty's Competitive Programming Club (Pu++).<br>- ⚡ In my free time I play piano and listen to my favorite music.</p>
 
 ###
 
@@ -35,21 +35,16 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="80" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="80" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,go,latex" height="80" alt="languages"  />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=neovim" height="80" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="80" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim,js,linux,bash" height="80" alt="tools"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexJzG&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJzG&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ###
